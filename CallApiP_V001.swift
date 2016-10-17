@@ -71,7 +71,7 @@ class CallApiP : NSObject
        /* }catch
         {
             
-            UIAlertView.init(title: "DoctorStay", message: "No Internet Connection!", delegate: nil, cancelButtonTitle: "Cancel").show()
+            
         }*/
         
     }
@@ -128,7 +128,7 @@ class CallApiP : NSObject
         /* }catch
         {
         
-        UIAlertView.init(title: "DoctorStay", message: "No Internet Connection!", delegate: nil, cancelButtonTitle: "Cancel").show()
+        
         }*/
         
     }
